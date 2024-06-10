@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="flex-1">
         <img
           className="w-full h-full object-cover"
-          src="public/shoe_image.png"
+          src="/shoe_image.png"
           alt="Hero Background"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
